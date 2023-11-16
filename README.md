@@ -3,9 +3,10 @@ The official source code for QWeight based on [MARL-Algorithms](https://github.c
 
 # Prerequisites
 ## Install dependencies
-See ''requirments.txt'' file for more information about how to install the dependencies.
+See ``requirments.txt`` file for more information about how to install the dependencies.
 ## Environments 
 ### Level-based Foraging
 [Level=based Foraging (LBF)](https://github.com/semitable/lb-foraging) is a mixed cooperative-competitive game, which focuses on the coordination of the agents involved. Agents navigate a grid world and collect food by cooperating with other agents if needed. Please refer to LBF to install it.
 
-## SMAC
+## StarCraft Multi-Agent Challenge
+[StarCraft Multi-Agent Challenge (SMAC)](https://github.com/oxwhirl/smac) is designed for research in the field of collaborative multi-agent reinforcement learning (MARL). Please refer to SMAC to install it. Note that the version of SMAC in oour paper is ``SC2.4.6``.

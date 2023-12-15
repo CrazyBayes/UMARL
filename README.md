@@ -1,4 +1,4 @@
-# QWeight:
+# QWeight: Weighted Value Function Factorisation with Incentive Exploration for  Cooperative Multi-Agent Reinforcement Learning
 The official source code for QWeight based on [MARL-Algorithms](https://github.com/starry-sky6688/MARL-Algorithms) and [PyMARL](https://github.com/oxwhirl/pymarl) framework. Our paper is submitted to "``IJCAI2024``".
 
 # Prerequisites

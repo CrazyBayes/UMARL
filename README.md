@@ -29,5 +29,10 @@ Directly run the ``main.py``, then the algorithm will start training on the sett
 
 Or, if you just want to use this project for demonstration, you should set ```--evaluate=True --load_model=True```
 
+# Video from *GRF: academy_corner*
+#### QWeigt
+
+#### QMIX
+
 # Acknowledgements
 We want to express our gratitude to the authors of [MARL-Algorithms](https://github.com/starry-sky6688/MARL-Algorithms) and [PyMARL](https://github.com/oxwhirl/pymarl) framework for publishing the source codes. 

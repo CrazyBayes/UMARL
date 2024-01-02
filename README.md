@@ -31,8 +31,8 @@ Or, if you just want to use this project for demonstration, you should set ```--
 
 # Video from *GRF: academy_corner*
 #### QWeigt
-
+(https://github.com/CrazyBayes/QWeight/issues/1#issuecomment-1873572809)
 #### QMIX
-
+(https://github.com/CrazyBayes/QWeight/issues/1#issue-2061878891)
 # Acknowledgements
 We want to express our gratitude to the authors of [MARL-Algorithms](https://github.com/starry-sky6688/MARL-Algorithms) and [PyMARL](https://github.com/oxwhirl/pymarl) framework for publishing the source codes. 

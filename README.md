@@ -30,7 +30,8 @@ Directly run the ``main.py``, then the algorithm will start training on the sett
 Or, if you just want to use this project for demonstration, you should set ```--evaluate=True --load_model=True```
 
 # Videos from *GRF: academy_corner*
-You can see the videos in the folder ``video``.
+You can see the videos in the folder ``./videoFromacademy_corner/``.
+
 Or,
 #### QWeigt
 ![Qweight](https://github.com/CrazyBayes/QWeight/assets/58516243/72715194-4745-425c-91bb-e22bbaed00ff)

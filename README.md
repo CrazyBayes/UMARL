@@ -38,6 +38,6 @@ Or,
 ![Qweight](https://github.com/CrazyBayes/QWeight/assets/58516243/72715194-4745-425c-91bb-e22bbaed00ff)
 #### QMIX
 ![QMIX](https://github.com/CrazyBayes/QWeight/blob/main/videoFromacademy_corner/QMIX.gif)
-![QMIX](https://github.com/CrazyBayes/QWeight/assets/58516243/39a635ee-01a1-4b78-99e1-10bb685ea7d3)
+
 # Acknowledgements
 We want to express our gratitude to the authors of [MARL-Algorithms](https://github.com/starry-sky6688/MARL-Algorithms) and [PyMARL](https://github.com/oxwhirl/pymarl) framework for publishing the source codes. 

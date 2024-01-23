@@ -33,7 +33,7 @@ Or, if you just want to use this project for demonstration, you should set ```--
 You can see the videos in the folder ``./videoFromacademy_corner/``.
 
 Or,
-#### QWeigt
+#### QWeight
 ![Qweight](https://github.com/CrazyBayes/QWeight/assets/58516243/72715194-4745-425c-91bb-e22bbaed00ff)
 #### QMIX
 ![QMIX](https://github.com/CrazyBayes/QWeight/assets/58516243/39a635ee-01a1-4b78-99e1-10bb685ea7d3)

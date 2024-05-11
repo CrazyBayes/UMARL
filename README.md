@@ -14,7 +14,7 @@ See ``requirments.txt`` file for more information about how to install the depen
 ### Google Research Football
 [Google Research Football (GRF)](https://github.com/google-research/football) is created by the Google Brain team for research, a new reinforcement learning environment where agents are trained to play football in an advanced, physics-based 3D simulator. Please refer to GRF (https://github.com/google-research/football) to install it.
 
-# How to run QWeight?
+# How to run UMARL?
 ```python
 python main.py --alg=qweight_vb --map=foraging  --cuda=True
 ```
@@ -24,9 +24,8 @@ python main.py --alg=qweight_vb --map=8m --cuda=True
 ```python
 python main.py --alg=qweight_vb --map=academy_corner  --cuda=True
 ```
-Note that qweight_vb refers to our proposed UMARL.
 
-Directly run the ``main.py``, then the algorithm will start training on the setted environment ``foraging``/``8m``/``academy_corner``. Please note that the **qweight_vb** in this project refers to our proposed algorithm **QWeight**.
+Directly run the ``main.py``, then the algorithm will start training on the setted environment ``foraging``/``8m``/``academy_corner``. Please note that the **qweight_vb** in this project refers to our proposed algorithm **UMARL**.
 
 Or, if you just want to use this project for demonstration, you should set ```--evaluate=True --load_model=True```
 
@@ -35,8 +34,8 @@ You can see the videos in the folder ``./videoFromacademy_corner/``.
 
 Or,
 #### UMARL
-![Qweight](https://github.com/CrazyBayes/QWeight/assets/58516243/72715194-4745-425c-91bb-e22bbaed00ff)
+![Qweight](https://github.com/CrazyBayes/UMARL/assets/58516243/72715194-4745-425c-91bb-e22bbaed00ff)
 #### QMIX
-![QMIX](https://github.com/CrazyBayes/QWeight/assets/58516243/39a635ee-01a1-4b78-99e1-10bb685ea7d3)
+![QMIX](https://github.com/CrazyBayes/UMARL/assets/58516243/39a635ee-01a1-4b78-99e1-10bb685ea7d3)
 # Acknowledgements
 We want to express our gratitude to the authors of [MARL-Algorithms](https://github.com/starry-sky6688/MARL-Algorithms) and [PyMARL](https://github.com/oxwhirl/pymarl) framework for publishing the source codes. 

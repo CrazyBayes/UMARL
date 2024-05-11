@@ -1,5 +1,5 @@
-# QWeight: Weighted Value Function Factorisation with Incentive Exploration for  Cooperative Multi-Agent Reinforcement Learning
-The official source code for QWeight is based on [MARL-Algorithms](https://github.com/starry-sky6688/MARL-Algorithms) and [PyMARL](https://github.com/oxwhirl/pymarl) framework. Our paper is submitted to "``NeurIPS2024``".
+# UMARL: Unifying  Exploration and Exploitation  for Cooperative Multi-agent Reinforcement Learning
+The official source code for UMARL is based on [MARL-Algorithms](https://github.com/starry-sky6688/MARL-Algorithms) and [PyMARL](https://github.com/oxwhirl/pymarl) framework. Our paper is submitted to "``NeurIPS2024``".
 
 # Prerequisites
 ## Install dependencies
@@ -24,6 +24,7 @@ python main.py --alg=qweight_vb --map=8m --cuda=True
 ```python
 python main.py --alg=qweight_vb --map=academy_corner  --cuda=True
 ```
+Note that qweight_vb refers to our proposed UMARL.
 
 Directly run the ``main.py``, then the algorithm will start training on the setted environment ``foraging``/``8m``/``academy_corner``. Please note that the **qweight_vb** in this project refers to our proposed algorithm **QWeight**.
 
@@ -33,7 +34,7 @@ Or, if you just want to use this project for demonstration, you should set ```--
 You can see the videos in the folder ``./videoFromacademy_corner/``.
 
 Or,
-#### QWeight
+#### UMARL
 ![Qweight](https://github.com/CrazyBayes/QWeight/assets/58516243/72715194-4745-425c-91bb-e22bbaed00ff)
 #### QMIX
 ![QMIX](https://github.com/CrazyBayes/QWeight/assets/58516243/39a635ee-01a1-4b78-99e1-10bb685ea7d3)

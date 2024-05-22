@@ -5,6 +5,8 @@ This official source code for UMARL is based on [MARL-Algorithms](https://github
 ## Install dependencies
 See ``requirments.txt`` file for more information about how to install the dependencies.
 ## Environments 
+### m-step Matrix Game
+Please see [m-step Matrix Game](https://proceedings.neurips.cc/paper_files/paper/2019/hash/f816dc0acface7498e10496222e9db10-Abstract.html) to know this Game.
 ### Level-based Foraging
 [Level-based Foraging (LBF)](https://github.com/semitable/lb-foraging) is a mixed cooperative-competitive game, which focuses on the coordination of the agents involved. Agents navigate a grid world and collect food by cooperating with other agents if needed. Please refer to LBF (https://github.com/semitable/lb-foraging)  to install it.
 
@@ -15,6 +17,10 @@ See ``requirments.txt`` file for more information about how to install the depen
 [Google Research Football (GRF)](https://github.com/google-research/football) is created by the Google Brain team for research, a new reinforcement learning environment where agents are trained to play football in an advanced, physics-based 3D simulator. Please refer to GRF (https://github.com/google-research/football) to install it.
 
 # How to run UMARL?
+```python
+python main.py --alg=qweight_vb --map=nstepmatrix  --cuda=True
+```
+
 ```python
 python main.py --alg=qweight_vb --map=foraging  --cuda=True
 ```

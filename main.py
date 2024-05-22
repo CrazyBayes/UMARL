@@ -38,6 +38,16 @@ if __name__ == '__main__':
                               seed,
                               need_render
                               )
+        elif args.map =='nstepmatrix':
+            #from envs import nstep_matrix_game
+            from envs_matrix.nstep_matrix_game import NStepMatrixGame
+            #import  numpy as np
+            steps = 10
+            good_branches = 2
+            env = NStepMatrixGame(
+                steps,
+                good_branches
+            )
         else:
             env = StarCraft2Env(map_name=args.map,
                             step_mul=args.step_mul,

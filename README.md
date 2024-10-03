@@ -1,5 +1,5 @@
 # UMARL: Unifying  Exploration and Exploitation  for Cooperative Multi-agent Reinforcement Learning
-This official source code for UMARL is based on [MARL-Algorithms](https://github.com/starry-sky6688/MARL-Algorithms) and [PyMARL](https://github.com/oxwhirl/pymarl) framework. Our paper is submitted to "``NeurIPS2024``". 
+This official source code for UMARL is based on [MARL-Algorithms](https://github.com/starry-sky6688/MARL-Algorithms) and [PyMARL](https://github.com/oxwhirl/pymarl) framework. Our paper is submitted to "``IEEE Transactions on Knowledge and Data Engineering``". 
 
 # Prerequisites
 ## Install dependencies

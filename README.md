@@ -1,4 +1,5 @@
-# UMARL: Unifying  Exploration and Exploitation  for Cooperative Multi-agent Reinforcement Learning
+# Learning Optimal Policies with Local Observations for Cooperative Multi-agent Reinforcement Learning
+
 This official source code for UMARL is based on [MARL-Algorithms](https://github.com/starry-sky6688/MARL-Algorithms) and [PyMARL](https://github.com/oxwhirl/pymarl) framework. Our paper is accepted by "``IEEE Transactions on Neural Networks and Learning Systems``". 
 
 # Prerequisites
